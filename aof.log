@@ -1,0 +1,13 @@
+00014SET sdfs sgs
+00017SET hello chick
+00014SET Poke mon
+00010GET sdfs
+00013GET Pokemon
+00010GET Poke
+00011GET hello
+00010GET sdfs
+00010GET Poke
+00012SET hi sdf
+00008DEL hi
+00018SET hi hid ES 30
+00012SET hi sdf
